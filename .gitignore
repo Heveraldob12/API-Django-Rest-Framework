@@ -139,7 +139,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+./React_api_3-master/
+React_api_3-master/
+React_api_3-master/*
 # Spyder project settings
 .spyderproject
 .spyproject

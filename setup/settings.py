@@ -133,3 +133,6 @@ REST_FRAMEWORK = {
     # 'DEFAULT_THROTTLE_RATES': {
     #     'anon': '5/day',}
 }
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",
+]
