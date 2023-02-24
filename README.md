@@ -24,7 +24,6 @@ Já no curso de versionamento foi mais a teoria e outras boas pátricas para que
 
 ### Lista de cursos:
 
-
 [API com Django 3: Django Rest Framework](https://cursos.alura.com.br/course/api-django-3-rest-framework)
 
 
