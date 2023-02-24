@@ -6,7 +6,7 @@ Descrição:
 | -------------  | --- |
 | :sparkles: Nome        | **Curso de Django Rest Framework**
 | :label: Tecnologias | Python,Postman (tecnologias utilizadas)
-| :rocket: URL         | https://cursos.alura.com.br/course/api-django-3-rest-framework
+| :rocket: URL         | https://cursos.alura.com.br/formacao-django-rest
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 <p align="left"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="heveraldob12" width="330" height="230"  /> </p>
@@ -18,7 +18,18 @@ Cursos de API com o Django:
 Criação de uma APi de uma escola de tecnologia.
 
 Essa Api servirá para inserir e modificar Alunos, Cursos e Matriculas , no intuito de ser utilizados para outras aplicações, por exemplo, um Dashboard interativo.
-Também irei utilizar a plataforma do [postman](https://web.postman.co/home) para utilizar os dados da API
+Também irei utilizar a plataforma do [postman](https://web.postman.co/home) para utilizar os dados da API.
+
+Já no curso de versionamento foi mais a teoria e outras boas pátricas para que eu possa elevar o nível da minha aplicação.
+
+### Lista de cursos:
+
+
+[API com Django 3: Django Rest Framework](https://cursos.alura.com.br/course/api-django-3-rest-framework)
+
+
+[API com Django 3: Versionamento, cabeçalhos e CORS](https://cursos.alura.com.br/course/api-django-3-versionamento-cabecalhos-cors)
+
 
 
 ## 
