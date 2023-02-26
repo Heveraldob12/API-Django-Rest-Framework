@@ -29,7 +29,7 @@ Já no curso de versionamento foi mais a teoria e outras boas pátricas para que
 
 [API com Django 3: Versionamento, cabeçalhos e CORS](https://cursos.alura.com.br/course/api-django-3-versionamento-cabecalhos-cors)
 
-[API com Django 3: Testes, segurança e lapidações]https://cursos.alura.com.br/course/api-django-3-testes-seguranca-lapidacoes
+[API com Django 3: Testes, segurança e lapidações](https://cursos.alura.com.br/course/api-django-3-testes-seguranca-lapidacoes)
 
 ## 
 ☢️☢️☢️ Qualquer erro de código ou gramatical, por favor entrar em contato
