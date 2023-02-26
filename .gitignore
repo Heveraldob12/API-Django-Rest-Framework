@@ -142,6 +142,10 @@ venv.bak/
 ./React_api_3-master/
 React_api_3-master/
 React_api_3-master/*
+# locale
+* nlocale/*
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
