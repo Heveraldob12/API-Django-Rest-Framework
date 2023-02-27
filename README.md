@@ -23,6 +23,7 @@ Também irei utilizar a plataforma do [postman](https://web.postman.co/home) par
 Já no curso de versionamento foi mais a teoria e outras boas pátricas para que eu possa elevar o nível da minha aplicação.
 
 ### Lista de cursos:
+<img align="right" alt="coding" width="100" src="https://github.com/Heveraldob12/API-Django-Rest-Framework/blob/master/media_root/ALURA%20DJANGO%20LOGO/logo%20alura%20django%20logo.png#vitrinedev">
 
 [API com Django 3: Django Rest Framework](https://cursos.alura.com.br/course/api-django-3-rest-framework)
 
