@@ -12,7 +12,7 @@ Descrição:
 <p align="left"> <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" alt="heveraldob12" width="330" height="230"  /> </p>
 
 
-## Detalhes do projeto/Project's details
+## Detalhes do projeto/Project's details👨🏾‍💻
 
 Cursos de API com o Django:
 Criação de uma APi de uma escola de tecnologia.
@@ -31,7 +31,7 @@ I will also use the [postman](https://web.postman.co/home) a platform to use the
 
 In the versioning course, it was more about theory and other good practices so that I can upgrade of my application.
 
-### Lista de cursos/List of Courses:
+### Lista de cursos/List of Courses⏳:
 <img align="right" alt="coding" width="100" src="https://github.com/Heveraldob12/API-Django-Rest-Framework/blob/master/media_root/ALURA%20DJANGO%20LOGO/logo%20alura%20django%20logo.png#vitrinedev">
 
 [API com Django 3: Django Rest Framework](https://cursos.alura.com.br/course/api-django-3-rest-framework)
